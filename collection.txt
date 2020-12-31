@@ -1,0 +1,228 @@
+101 Engineering Mechanics Statics
+400.5 Beer, Ferdinand
+448
+102 Strength of Materials
+300 Timoshenko, S
+442
+103 Industrial Instrumentation
+500 Eckman, Donald P
+396
+104 Elements of Electrical Networks
+900 Reddy, Narayana
+574
+104 Electric Machinery
+410 Sen, S.K
+671
+105 Active and Passive Analog Filter Design
+600 Huelsman, Lawrence P
+480
+106 The Art of Control Engineering
+555 Dutton, Ken
+813
+107 Engineering Mathematics
+596 Stroud, K.A
+951
+108 An Introduction to Computer Science
+500 Balamurali, Savitha
+214
+109 Electric Machinery Fundamentals
+1000 Chapman, Stephen J
+716
+110 Circuits, Devices & Systems
+1100 Smith, Ralph J
+868
+110 Electrical Technology
+999 Cotton, H
+864
+111 Linear Control System Analysis and Design
+1200 D'Azzo, John J
+763
+112 Electrical Interference Handbook
+600 Ellis, Norman
+271
+113 Operation and Modeling of The MOS Transistor
+800 Tsividis, Yannis
+620
+114 Fundamentals of Metal Cutting and Machine Tools
+900 Juneja, B.L
+462
+115 Basic Machine Shop Practice
+600 Tejwani, V.K
+254
+116 Solved Problems in Mechanical Engineering Thermodynamics
+1000 Liley, Peter E
+406
+117 Basic Engineering Thermodynamics
+1300 Joel, Rayner
+647
+118 Machine Design
+1500 Mubeen
+983
+119 Mechanical Engineering Science
+600 Hannah, John
+483
+120 Manufacturing Technology
+500 Haslehurst, M
+394
+121 Materials Handling
+900 Allegri, Theodore H
+516
+122 Introduction to Machine Design
+1200 Bhandari, V.B
+619
+123 Theory of Elasticity
+400 Verma, P.D.S
+338
+124 Applied Elasticity
+600 Zhilun
+373
+125 Materials Management
+300 Oberoi, Preeti
+157
+126 Physical Metallurgy and Processing of Intermetallic Compounds
+1900 Stoloff, N.S (editor)
+684
+127 Automobile Mechanics
+1000 Giri, N.K
+624
+128 The Motor Vechicle
+2000 Newton, K
+999
+129 Engineering Design
+2300 Dieter, George E
+798
+130 Advanced Thermodynamics for Engineers
+1100 Wark, Kenneth
+564
+131 Electrical Machinery
+2400 Bimbhra, P.S
+1182
+132 Theory of Mechnisms and Machines
+1400 Ghosh, Amitabha
+630
+133 Materials for the Engineering Technician
+600 Haggings, R.A
+384
+134 Corrosion for Science and Engineering
+800 Trethewey, Keneth R
+466
+135 Corrosion Engineering
+900 Fontana, Mars G
+556
+136 An Introduction to Combustion
+1500 Turns, Stephen R
+676
+137 Machine Wood Working: Mechanical Metallurgy
+1700 Dieter, George E
+751
+138 Manufacturing Resource Planning with Introduction to ERP, SC< and CRM
+1600 Khalid, Sheikh
+585
+139 Theory of Machines
+3600 Ballaney, P.L
+1486
+140 Statics and Strength of Materials
+1103 Cheng
+900
+141 Theory and Problems of Electric Machines
+800 Kothari, D.P
+369
+142 Low-Dimensional Semiconductor Structures
+800 Barnham, Keith (editor)
+393
+143 Mechanical Science
+600 Bolton, W
+474
+144 Mechanics of Engineering Materials
+1900 Benham, P.P
+627
+145 Thermodynamics
+900 Simonson, John
+597
+146 The Mathematics of Thermal Modeling
+300 Dowden, John Michael
+291
+147 Automotive Mechanics
+1400 Crouse, William H
+820
+148 Basic Electric Circuit Analysis
+1800 Johnson, David E [et.al]
+762
+149 Combustion Engineering
+1200 Borman, Gary L
+613
+150 Electric Machinery
+400 Ryff, Peter F
+320
+151 Engineering Drawing
+900 Jeyapoovan, T
+662
+152 Design and Optimization of Thermal Systems
+900 Jaluria, Yogesh
+626
+153 Physical Chemistry of Iron ans Steel Manufacturing
+1000 Bodsworth, C
+497
+154 Principles of Foundry Technology
+300 Bawa, H.S
+183
+155 Rate Processes in Metallurgy
+900 Mohanty, A.K
+454
+156 Microsoft Word 2000
+900 O'leary, Timothy J
+300
+157 Auto Mechanics
+1100 Glenn, Harold T
+551
+158 Applied Mechanics
+800 Hannah, J
+448
+159 The Theory of Industrail Organization
+900 Tirole, Jean
+479
+160 Strength of Materials
+3000 Lehri, R.S
+1092
+161 Manufacturing Systems Engineering
+900 Hitomi, Katsundo
+536
+162 Stresses in Plates and Shells
+1050 Ugural, Ansel C
+502
+163 Manufacturing Automation
+600 Altintas, Yusuf
+286
+164 Manufacturing Strategy
+800 Hill, Terry
+311
+165 Manufacturing Change
+500 Tailby, Stephanie (editor)
+226
+166 Design of Machinery
+1900 Norton, Robert L
+809
+167 Electricity-Electronics Fundamentals
+800 Zbar, Paul B
+374
+168 Computer and Information Systems
+1050 Hutchinson, Sarah E
+508
+169 Dynamic Systems
+1300 Hung, Vu
+622
+170 Seminconductor Device Fundamentals
+1700 Pierret, Robert F
+792
+171 Strength of Materials
+800 Nash, William
+474
+172 Engineering Management
+800 Mazda, Fraidoon
+658
+173 Strength of Materials
+1000 Timoshenko, S
+572
+174 Workshop Technology
+1900 Chandola, S.P
+360
